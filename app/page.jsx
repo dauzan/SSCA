@@ -113,7 +113,7 @@ function Header({ query, setQuery, setActive }) {
           <Sun size={20} />
         </div>
         <div>
-          <h1 className="text-xl font-semibold">SSCA — Sustainability Supply Chain Analytics</h1>
+          <h1 className="text-xl font-semibold">SSCA</h1>
           <p className="text-sm text-slate-500">Emission forecasting · Supplier risk · Regulatory intelligence</p>
         </div>
       </div>
