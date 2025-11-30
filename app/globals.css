@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+/* Optional simple page padding for demo */
+html, body, #__next {
+  height: 100%;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
