@@ -10,7 +10,7 @@ import { Sun, Cloud, Search, Menu, AlertCircle, CheckCircle, Loader,
   Pause, Save, Trash2
  } from 'lucide-react'
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'localhost:5000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000';
 
 const COLORS = {
   operations: '#10b981',
